@@ -2,7 +2,11 @@
   "comments": [
     {
       "username": "first",
-      "text": "Первыйнах"
+      "text": "some comment",
+    },
+    {
+      "username": "second",
+      "text": "some comment",
     }
-  ]
+  ],
 }
