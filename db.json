@@ -2,11 +2,11 @@
   "comments": [
     {
       "username": "first",
-      "text": "some comment",
+      "text": "some comment"
     },
     {
       "username": "second",
-      "text": "some comment",
+      "text": "some comment"
     }
-  ],
+  ]
 }
