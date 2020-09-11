@@ -1,7 +1,7 @@
 {
-  "comments": [
+  "todos": [
     {
-      "username": "first",
+      "id": "1",
       "text": "Первыйнах\n"
     }
   ]
