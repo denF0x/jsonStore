@@ -7,6 +7,10 @@
     {
       "username": "second",
       "text": "some comment"
+    },
+    {
+      "username": "third",
+      "text": "бла-бла"
     }
   ]
 }
